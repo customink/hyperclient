@@ -1,4 +1,4 @@
-require 'addressable'
+require 'addressable/template'
 
 module Hyperclient
   # Internal: The Link is used to let a Resource interact with the API.
